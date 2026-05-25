@@ -15,7 +15,7 @@ sudo apt install python3-pip python3-venv -y
 
 ### 3. Extraer el zip
 ```bash
-unzip cliente_ek.zip -d cliente_ek
+unzip cliente__ek.zip -d cliente_ek
 cd cliente_ek
 ```
 
